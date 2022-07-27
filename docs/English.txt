@@ -1,0 +1,62 @@
+【常见/常用的计算机词语】
+
+full-stack web developer：全栈web开发
+trade-off 权衡，取舍
+nested exception 嵌套异常
+commercial use 商业用途
+upgrade version 升级版本
+environment variable 环境变量 
+global variable 全局变量
+additional information 额外信息
+an external third-party server 一个外部的第三方服务
+third-party packages 第三方包
+please visit the following links 请访问以下链接
+In contrast 与此相反
+side effect 副作用
+repeated slashes 重复的斜杠（斜线）
+trailing slash 末尾的斜杠
+pretty lightweight helper function 非常轻量的助手函数
+a bit restrictive 有点限制
+idempotent action 幂等的行为
+a non-idempotent action 非幂等的行为
+looks straightforward 看起来很简单
+so far 到目前为止
+super-common 超级常见的
+quite rare 非常罕见的
+plain text 纯文本
+manually 手动地
+automatically 自动地、毫不犹豫地
+
+Silent mode 静音模式
+focused on extensibility and usability  专注于扩展性和可用性
+User Manual 用户手册、说明书
+manual labour 手工劳动，体力劳动
+orphan process 孤儿进程
+Business License 营业执照、营业许可证
+convert 转变、转换
+retrieve 检索、找回
+invalid value 无效的值
+build and deploy application 构建和部署应用程序
+refactor your existing code 重构你现有的代码
+navigation 导航、航行
+dynamic data 动态数据
+invoke the appropriate method 调用适当的方法
+invoked template 调用的模板
+corresponding file 相应的文件、相关的文件
+reduce latency and proccessing overhead 减少延迟和处理开销
+hard disk 硬盘
+fresh approach 新的方法
+previous chapters 之前的章节
+syntactic sugar 语法糖
+eagle-eyed 眼尖的、目光敏锐的
+shared resources 共享资源
+idiomatic way 惯用的方法
+export drawback 出口退税
+drawback 缺点
+omit 省略、遗漏
+rough example 粗略的例子
+two distinct types 两种不同的类型
+a couple of different ways 几种不同的方法
+decouple code 解耦代码
+server encounters an error 服务器遇到(偶遇)一个错误
+shortcut 捷径、快捷方法
