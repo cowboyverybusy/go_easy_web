@@ -60,3 +60,33 @@ a couple of different ways 几种不同的方法
 decouple code 解耦代码
 server encounters an error 服务器遇到(偶遇)一个错误
 shortcut 捷径、快捷方法
+As a rule of thumb 根据经验
+concurrency-safe 并发安全
+Dependency Injection 依赖注入
+demonstrate 证明，表现
+
+fundamental principle 基本原则
+general-purpose 多种用途的、通用的
+general-purpose scripting language 通用的脚本语言
+methodology 方法论
+pragmatic 实用的、务实的
+pragmatic function 实用的功能
+empty recycle bin 清空回收站(垃圾桶)
+rubbish bin 垃圾桶
+measuring accuracy 测量精度
+agile development 敏捷开发
+open your terminal 打开你的终端
+internal server error 内部服务器错误
+external pressure 外部压力
+stack trace 堆栈跟踪
+
+
+
+【句子】
+As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
+如上所述，我的一般建议是将输出记录到标准流，并在运行时将输出重定向到文件
+
+a huge amount of 大量的
+be worth doing 值得做某事
+There’s not a huge amount of new code here, but it does introduce some new features which are worth discussing.
+这里并没有大量的新代码，但是它引入了一些值得讨论的新特性
