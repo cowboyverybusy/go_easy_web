@@ -60,3 +60,12 @@ a couple of different ways 几种不同的方法
 decouple code 解耦代码
 server encounters an error 服务器遇到(偶遇)一个错误
 shortcut 捷径、快捷方法
+
+Linux Intermediate Tutorials linux中级教程
+carry out tasks 执行任务
+most widely used programs 使用最广泛的程序
+intend to do sth  计算做某事
+prime 首要的，主要的
+prime candidate 主要的候选人
+output 输出
+input 输入
