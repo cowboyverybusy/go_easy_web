@@ -91,7 +91,14 @@ prompt action 立即行动
 irrespective of version number 不考虑版本号
 specific version 特定的版本
 
-
+Linux Intermediate Tutorials linux中级教程
+carry out tasks 执行任务
+most widely used programs 使用最广泛的程序
+intend to do sth  计算做某事
+prime 首要的，主要的
+prime candidate 主要的候选人
+output 输出
+input 输入
 
 
 【句子】
