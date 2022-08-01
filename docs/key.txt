@@ -27,3 +27,18 @@ func (u *User) GetUserAge() int {
 <!-- 把函数结果存储在以$符号开头的变量，这样能在多个地方直接使用 -->
 {{$age := .GetUserAge}}
 <p>you age is {{$age}}</p>
+
+【模板技巧三：避免模板解析报错的时候，返回一半的html给用户】
+原有的代码：
+err = ts.Execute(w, user)
+改进思路：
+将模板渲染分为两个阶段。首先，我们应该通过将模板写入缓冲区来进行“试验”渲染。
+如果失败，我们可以用一条错误消息响应用户。但如果它能工作（解析成功），我们就可以将缓冲区的内容写入http.ResponseWriter。
+代码如下：
+buf := new(bytes.Buffer)
+err = ts.Execute(buf, user)
+if err != nil {
+	app.serverError(w, err)
+	return
+}
+buf.WriteTo(w)

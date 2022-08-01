@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"fmt"
 	"html/template"
 	"log"
@@ -63,10 +64,15 @@ func (app *application) ShowHome(w http.ResponseWriter, r *http.Request) {
 	}
 	// user.UserDesc = "<script>alert('xss attack')</script>"
 	//传入user(如果要传递多个结构体，需要定义一个大的结构体（最好新建一个文件），包含若干小结构体)
-	err = ts.Execute(w, user)
+	// err = ts.Execute(w, user)
+
+	//将模板渲染分为两个阶段。首先，我们应该通过将模板写入缓冲区来进行“试验”渲染。如果失败，我们可以用一条错误消息响应用户。
+	// 但如果它能工作，我们就可以将缓冲区的内容写入http.ResponseWriter。
+	buf := new(bytes.Buffer)
+	err = ts.Execute(buf, user)
 	if err != nil {
 		app.serverError(w, err)
 		return
 	}
-
+	buf.WriteTo(w)
 }

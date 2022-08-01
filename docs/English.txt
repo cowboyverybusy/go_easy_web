@@ -128,6 +128,14 @@ tackle 解决，处理
 absolute proof 确凿的证据、绝对的证明
 simplify the code 简化代码
 generate an error at runtime 运行时产生错误
+secure and maintainable web applications 安全，可维护的web程序
+parse the templates 解析模板
+An alternative approach 一个新（可替代的）方法
+arbitrary 任意的，随意的，随心所欲的
+arbitrary parameter 任意参数
+compatible 兼容的，可共存的
+
+
 
 
 【句子】
@@ -149,3 +157,7 @@ Make no mistake: your support is absolutely vital to help keep us innovating!
 This is pretty bad. Our application has thrown an error, but the user has wrongly been sent a 200 OK response. 
 And even worse, they’ve received a half-complete HTML page.
 这太糟糕了，我们的程序抛出一个错误，但是用户错误地接收到了一个请求成功响应。更糟糕的时，他们收到了一半的html页面
+
+
+The new system will be compatible with existing equipment. 
+新的系统将会和现有设备兼容
