@@ -1,11 +1,39 @@
 {{template "base" .}}
+
 {{define "title"}}
 cowboy very busy
 {{end}}
+
 {{define "main"}}
 <h1>in turn invoke template</h1>
 <p class="lines">convert your attitude,and refactor your existing code!</p>
 <h2>my name is {{.UserName}}</h2>
 <p>{{.UserDesc}}</p>
+<!-- 模板可以调用结构体的方法 -->
+<p>my age is :{{.GetUserAge}}</p>
+<!-- 把变量存储在以$符号开头的变量，这样下次可以直接使用了 -->
+{{$age := .GetUserAge}}
+<p>you age is {{$age}}</p>
+
+{{if .UserAddr}}
+<p>my addr is :{{.UserAddr}}</p>
+{{else}}
+<p>UserAddr is empty</p>
+{{end}}
+
+
+<table>
+<tr>
+    <th>爱好</th>
+    <th>成绩</th>
+</tr>
+{{range .Likes}}
+<tr>
+    <td>{{.Name}}</td>
+    <td>{{.Score}}</td>
+</tr>
+{{end}}
+</table>
+
 {{end}}
 

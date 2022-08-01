@@ -120,6 +120,15 @@ sensible 合理的、理智的
 inefficient 效率低的
 rather inefficient 效率相当低
 noticeable 明显的、显著的
+render 呈现、渲染
+underlying type 根本类型，基础类型
+concrete example 具体的例子
+fishing tackle 渔具；钓鱼用具
+tackle 解决，处理
+absolute proof 确凿的证据、绝对的证明
+simplify the code 简化代码
+generate an error at runtime 运行时产生错误
+
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -135,3 +144,8 @@ MySQL官方文档包含各种操作系统全面的安装说明。
 
 Make no mistake: your support is absolutely vital to help keep us innovating!
 毫无疑问：您的支持对我们保持创新至关重要！
+
+
+This is pretty bad. Our application has thrown an error, but the user has wrongly been sent a 200 OK response. 
+And even worse, they’ve received a half-complete HTML page.
+这太糟糕了，我们的程序抛出一个错误，但是用户错误地接收到了一个请求成功响应。更糟糕的时，他们收到了一半的html页面

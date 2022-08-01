@@ -1,4 +1,4 @@
-【go：sql记录包含null怎么办】
+【sql记录包含null怎么办】
 One thing that Go doesn’t do very well is managing NULL values in database records.
 go在管理数据库记录中的NULL值时做的不好。go语言中需要提前定义好查询字段的类型，但是连表查询的时候，
 可能有些字段的值为null。那么就会报错提示类型不一致。
@@ -8,3 +8,22 @@ go在管理数据库记录中的NULL值时做的不好。go语言中需要提前
 3、不允许过滤字段为null的这些数据，可以用CASE WHEN把null转换为空字符串：
 SELECT id,(CASE WHEN name IS NULL THEN "" ELSE name END) as etcd_value from table
 
+【模板技巧一：模板中可以调用结构体的方法】
+type User struct {
+	UserId   int
+	UserName string
+	UserDesc string
+}
+
+func (u *User) GetUserAge() int {
+	return 10 * u.UserId
+}
+
+<h2>my name is {{.UserName}}</h2>
+<!-- 模板可以调用结构体的方法 -->
+<p>my age is :{{.GetUserAge}}</p>
+
+【模板技巧二：存储函数的结果并在模板中的多个地方使用它】
+<!-- 把函数结果存储在以$符号开头的变量，这样能在多个地方直接使用 -->
+{{$age := .GetUserAge}}
+<p>you age is {{$age}}</p>
