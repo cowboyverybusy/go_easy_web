@@ -5,3 +5,7 @@
 handlers.go和main.go放在同一个包下，所以出现了加载多文件的错误。代码层面是没有错误。不过执行go run main.go就会报错。
 需要进入到main.go所在文件执行 go run . 即可运行成功。go build生成的二进制文件也能执行成功。
 最佳解决方案：还是把main.go单独放在最外层吧。
+
+
+如果是在项目根目录执行：go run ./cmd/web ,则静态文件的相对路径为：./ui/html
+如果是进入cmd/web，再执行go run . ,则静态文件的相对路径为：../../ui/html

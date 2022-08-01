@@ -1,0 +1,10 @@
+【go：sql记录包含null怎么办】
+One thing that Go doesn’t do very well is managing NULL values in database records.
+go在管理数据库记录中的NULL值时做的不好。go语言中需要提前定义好查询字段的类型，但是连表查询的时候，
+可能有些字段的值为null。那么就会报错提示类型不一致。
+解决这个问题的三个方案：
+1、用sql.NullString代表string
+2、避免出现null值，即过滤掉null的记录：where name IS NOT NULL
+3、不允许过滤字段为null的这些数据，可以用CASE WHEN把null转换为空字符串：
+SELECT id,(CASE WHEN name IS NULL THEN "" ELSE name END) as etcd_value from table
+

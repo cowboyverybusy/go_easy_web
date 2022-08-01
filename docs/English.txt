@@ -100,6 +100,26 @@ prime candidate 主要的候选人
 output 输出
 input 输入
 
+comma 逗号
+incorrect request 错误请求
+tutorial 教程、学习指南
+glamorous 迷人的、富有魅力的
+all sorts of 各种各样的，各种类型的
+component 组件
+recursive 递归的
+open-source 开源的
+bypass network restrictions 绕过网络限制
+software engineer 软件工程师
+precious time 宝贵的时间
+technical interview 技术面试
+somewhat 有些，有点
+A black hole for Internet advertisements 互联网广告的黑洞
+robust system 稳固的、稳健的系统
+scalable 可扩展、可伸缩
+sensible 合理的、理智的
+inefficient 效率低的
+rather inefficient 效率相当低
+noticeable 明显的、显著的
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -112,3 +132,6 @@ There’s not a huge amount of new code here, but it does introduce some new fea
 
 The official MySQL documentation contains comprehensive installation instructions for all types of operating systems。
 MySQL官方文档包含各种操作系统全面的安装说明。
+
+Make no mistake: your support is absolutely vital to help keep us innovating!
+毫无疑问：您的支持对我们保持创新至关重要！
