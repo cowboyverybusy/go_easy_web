@@ -80,6 +80,18 @@ internal server error 内部服务器错误
 external pressure 外部压力
 stack trace 堆栈跟踪
 
+consistency 一致性
+isolating the Application Routes 隔离应用路由
+placeholder parameters 占位符参数
+official documentation 官方文档
+comprehensive evaluation 综合评估，全面的评估
+unique identifier 唯一标识符
+command prompt 命令提示符
+prompt action 立即行动
+irrespective of version number 不考虑版本号
+specific version 特定的版本
+
+
 
 
 【句子】
@@ -90,3 +102,6 @@ a huge amount of 大量的
 be worth doing 值得做某事
 There’s not a huge amount of new code here, but it does introduce some new features which are worth discussing.
 这里并没有大量的新代码，但是它引入了一些值得讨论的新特性
+
+The official MySQL documentation contains comprehensive installation instructions for all types of operating systems。
+MySQL官方文档包含各种操作系统全面的安装说明。
