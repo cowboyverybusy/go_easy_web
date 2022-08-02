@@ -135,8 +135,21 @@ arbitrary 任意的，随意的，随心所欲的
 arbitrary parameter 任意参数
 compatible 兼容的，可共存的
 
-
-
+annotated tag 有注释的标签
+annotation n.注释
+annotate v.注释
+arguments 参数 = parameter
+wildcard 通配符
+ignore-case 忽略大小写（case insensitive）
+A brief overview 简短的概述（纲要）
+standard pattern 标准模式
+succinct 简洁的，言简意赅的
+anonymous function 匿名函数
+Alternatively 或者
+implement 实施，执行
+straight away 马上，立刻
+terminate 终止，结束
+sophisticated 复杂的，见多识广的
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -161,3 +174,14 @@ And even worse, they’ve received a half-complete HTML page.
 
 The new system will be compatible with existing equipment. 
 新的系统将会和现有设备兼容
+
+[关于git tag -n]
+The default is not to print any annotation lines. If no number is given to -n, only the first line is printed. 
+If the tag is not annotated, the commit message is displayed instead.
+默认不会打印任何注释行，如果没有给-n指定数字，只打印（注释的）第一行，如果标签没有注释,则显示提交信息。
+
+Sorting and filtering tags are case insensitive.
+排序和过滤标签是不区分大小写的
+
+It’s important to know that when the last handler in the chain returns, control is passed back up the chain in the reverse direction.
+重点是要知道，当链中最后一个处理程序返回的时候，控制将以相反的方向传递回链。
