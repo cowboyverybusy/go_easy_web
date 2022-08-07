@@ -5,6 +5,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"time"
 )
 
 type application struct {
@@ -31,6 +32,10 @@ func main() {
 		Addr:     *addr,
 		ErrorLog: errorLog,
 		Handler:  mux,
+		// Add Idle, Read and Write timeouts to the server.
+		IdleTimeout:  1 * time.Minute,
+		ReadTimeout:  5 * time.Second,
+		WriteTimeout: 10 * time.Second,
 	}
 	// log.Printf("Starting server on :%s\n", *addr)
 	infoLog.Printf("Starting server on %s", *addr)

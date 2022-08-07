@@ -147,9 +147,27 @@ succinct 简洁的，言简意赅的
 anonymous function 匿名函数
 Alternatively 或者
 implement 实施，执行
-straight away 马上，立刻
+straight away 马上，立刻 = in a minute
 terminate 终止，结束
 sophisticated 复杂的，见多识广的
+
+hang in there 坚持住
+revert 回复，恢复
+constant n.常数，常量;adj.不断的，不变的
+handshake 握手
+shake 摇动，握手
+unexpectedly 意外地，出乎意料地
+negative value 负值
+side effect 副作用
+warrant v.保证 n.保证,依据，凭据，许可证
+guarantee v.保证,担保 n.保证，担保；保修单，质量保证书；
+precise number 精确的数字
+placeholder 占位符
+integer 整数
+constrain v.限制，约束，强迫
+constraint n.限制，约束
+potential error 潜在的错误
+duplicate v.复制,复印 adj.完全一样的，复制的，重复的
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -185,3 +203,11 @@ Sorting and filtering tags are case insensitive.
 
 It’s important to know that when the last handler in the chain returns, control is passed back up the chain in the reverse direction.
 重点是要知道，当链中最后一个处理程序返回的时候，控制将以相反的方向传递回链。
+
+
+【skill】
+
+in 5 minutes 在5分钟之内，在5分钟之后（这两个意思完全不同）
+in 5 minutes 更多表示5分钟之后
+whthin 5 minutes 在5分钟之内（表达5分钟之内使用whthin就没有歧义了）
+in a minute 马上，立刻
