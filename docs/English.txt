@@ -53,6 +53,7 @@ shared resources 共享资源
 idiomatic way 惯用的方法
 export drawback 出口退税
 drawback 缺点
+downside 缺点，不利的方面
 omit 省略、遗漏
 rough example 粗略的例子
 two distinct types 两种不同的类型
@@ -94,7 +95,7 @@ specific version 特定的版本
 Linux Intermediate Tutorials linux中级教程
 carry out tasks 执行任务
 most widely used programs 使用最广泛的程序
-intend to do sth  计算做某事
+intend to do sth  打算做某事
 prime 首要的，主要的
 prime candidate 主要的候选人
 output 输出
@@ -121,7 +122,7 @@ inefficient 效率低的
 rather inefficient 效率相当低
 noticeable 明显的、显著的
 render 呈现、渲染
-underlying type 根本类型，基础类型
+underlying type 根本类型，基础类型,底层类型
 concrete example 具体的例子
 fishing tackle 渔具；钓鱼用具
 tackle 解决，处理
@@ -151,6 +152,7 @@ straight away 马上，立刻 = in a minute
 terminate 终止，结束
 sophisticated 复杂的，见多识广的
 
+<<<<<<< Updated upstream
 hang in there 坚持住
 revert 回复，恢复
 constant n.常数，常量;adj.不断的，不变的
@@ -168,6 +170,24 @@ constrain v.限制，约束，强迫
 constraint n.限制，约束
 potential error 潜在的错误
 duplicate v.复制,复印 adj.完全一样的，复制的，重复的
+=======
+side-effect 副作用
+conflict 冲突，争执，矛盾
+applicable 适用的
+respectively 分别的
+defence mechanism 防御机制
+feedback mechanism 反馈机制
+meet 满足，遇见
+take a moment to do sth 花点时间做某事
+revoke 撤销，撤回
+yield  v.产生，屈服 n.产量，利润，收益
+interpret 解释，说明
+anticipate 预期，预料
+denial n.拒绝，否认
+Denial-of-Service attacks 拒绝服务攻击
+dialog 对话，会话
+dialog box 对话框，对话窗口
+>>>>>>> Stashed changes
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
