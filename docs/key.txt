@@ -42,3 +42,15 @@ if err != nil {
 	return
 }
 buf.WriteTo(w)
+
+
+【go单元测试技巧】
+1、当我们使用t.f errorf()函数将测试标记为失败时，它不会导致go test立即退出。所有其他测试和子测试将在失败后继续运行。
+我们可以使用标签-failfast，在第一次失败后停止运行的测试。
+go test -failfast -v 
+2、执行项目所有的测试用例
+go test ./...
+3、当测试用例很多的时候，我们可以并行测试提升测试速度。
+在测试方法中加入t.Parallel()
+同时运行的最大测试数是GOMAXPROCS的当前值。您可以通过-parallel标志设置一个特定的值来重写它。如下：
+go test -parallel 4 ./...
