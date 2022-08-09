@@ -154,7 +154,7 @@ sophisticated 复杂的，见多识广的
 
 hang in there 坚持住
 revert 回复，恢复
-constant n.常数，常量;adj.不断的，不变的
+constant n.常数，常量;adj.不断的，不变的，恒定的
 handshake 握手
 shake 摇动，握手
 unexpectedly 意外地，出乎意料地
@@ -212,6 +212,26 @@ emulate 模仿，效仿
 dummy data 虚拟数据
 digest 理解，领悟；消化
 
+dispense with 摒弃，免去，无需
+shrink 缩小，减少；退缩
+deficiency 缺乏，缺点，不足
+complicated 复杂的
+essential 非常重要的，必不可少的 = crucial 
+productivity 生产力，生产率
+concise 简明的，简洁的
+criticize 批评，指责
+abbreviation n.缩写,缩略词
+declaration 声明
+redundant 多余的，冗余的
+redundant information 冗余信息
+similar advice 类似的建议
+convention  n.惯例，习俗
+elide 省略
+auto indent 自动缩进
+text-indent 文本缩进段落缩进
+imply 意味着，暗示
+elaborate plan 精心设计的计划
+
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -253,6 +273,22 @@ Implementing the user logout is straightforward in comparison to the signup and 
 
 The most important skill for a programmer is the ability to effectively communicate ideas.
 对于程序员来说，最重要的技能是有效交流想法的能力
+
+utilize the activity resource in parallel
+并行利用活动资源
+
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies,
+and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+构建软件设计有两种方法:一种是把它做得简单到没有明显缺陷，另一种是把它做得复杂到没有明显缺陷。第一种方法要困难得多
+
+Programs must be written for people to read, and only incidentally for machines to execute
+程序必须是为了让人读而写的，只是顺便让机器执行。
+
+Poor naming is symptomatic of poor design
+糟糕的命名是糟糕的设计的症状。
+
+Comments on variables and constants should describe their contents not their purpose
+关于变量和常量的注释应该描述它们的内容，而不是它们的目的
 
 
 【skill】
