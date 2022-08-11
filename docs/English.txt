@@ -232,6 +232,44 @@ text-indent 文本缩进段落缩进
 imply 意味着，暗示
 elaborate plan 精心设计的计划
 
+extremely handy 极其方便的
+calculate and manipulate data 计算和操作数据
+quotes 引号，引用
+introductory course 基础入门课程
+high-throughput 高吞吐
+low-latency 低延迟
+knowledge forum 知识论坛
+catalog 目录
+manipulate 操作，操纵，摆布
+core concepts 核心概念
+encounter 遭遇，遇到（尤指令人不快或困难的事），偶遇
+pitfall 陷阱
+Real-Time 实时的
+inventory 库存，清单
+accurate 精确的，准确的
+peak n. 巅峰，顶点；山顶；adj. 巅峰状态的，最高的；
+Real-Time inventory 实时库存
+accurate inventory 准确的库存
+peak performance 巅峰性能；最佳表现
+diverse 不同的，多种多样的
+more diverse 更加多样化
+diverse regions 不同的地区
+significant 明显的，显著的，相当数量的；重要的，意义重大的
+significantly 显著地，明显地
+significant improvement 显著的提升
+significantly different 明显的差别
+multiple channels 多种途径、多种渠道
+frustrate v.使懊恼，使沮丧,阻止，挫败
+brand loyalty 品牌忠诚度
+purchase 购买
+instant failure detection 及时故障检测
+detect v.发现，察觉；检测
+consistency 一致性
+Omnichannel 全渠道
+retailer 零售商
+out-of-date 过时的，老旧的
+revenue 收入
+
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -290,6 +328,18 @@ Poor naming is symptomatic of poor design
 Comments on variables and constants should describe their contents not their purpose
 关于变量和常量的注释应该描述它们的内容，而不是它们的目的
 
+In these final chapters, you’ll learn about common pitfalls that many Redis users encounter (reducing memory use, scaling performance, and scripting with Lua), 
+as well as how to solve those issues with standard techniques.
+在这些最后的章节中，你将了解很多Redis用户会遇到的常见陷阱(减少内存使用、扩展性能和使用Lua编写脚本)，以及如何用标准技术解决这些问题。
+
+Today’s customer journeys are significantly more diverse
+今天的客户旅程明显更加多样化
+
+《redis实现实时的库存系统》
+Leading retailers rely on Redis Enterprise to build complex real-time inventory systems because it powers instant
+inventory searches, ensures high availability, and handles updates from globally distributed retail channels without
+compromising latency or availability
+领先的零售商依赖Redis Enterprise来构建复杂的实时库存系统，因为它支持即时库存搜索，确保高可用性，并处理来自全球分布式零售渠道的更新，而不会影响延迟或可用性。
 
 【skill】
 
