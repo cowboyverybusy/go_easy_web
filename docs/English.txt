@@ -244,7 +244,7 @@ manipulate 操作，操纵，摆布
 core concepts 核心概念
 encounter 遭遇，遇到（尤指令人不快或困难的事），偶遇
 pitfall 陷阱
-Real-Time 实时的
+Real-Time/realtime 实时的
 inventory 库存，清单
 accurate 精确的，准确的
 peak n. 巅峰，顶点；山顶；adj. 巅峰状态的，最高的；
@@ -269,6 +269,35 @@ Omnichannel 全渠道
 retailer 零售商
 out-of-date 过时的，老旧的
 revenue 收入
+
+arithmetic operators 算术运算符
+consecutive 连续不断的，不间断的
+double quotes 双引号
+single quotes 单引号
+archive v.把……归档，存档 n.档案，档案室
+recursive 递归的，循环的
+recursively 递归地
+architecture 架构；建筑设计，建筑风格；
+software architecture 软件架构
+ironic 讽刺的
+forgery n.伪造；伪造品，赝品
+electronic waste 电子垃圾
+discard v.扔掉，丢弃，抛弃
+promotion n. 提拔，晋升；促销，推销； 促进
+bonus 奖金，额外的好处
+reverse-proxy 反向代理
+tricky 棘手的，难对付的
+simulate v.模拟，模仿；假装，冒充
+clipboard 剪贴板
+classic tool  经典的工具
+accelerate 加速，加快
+solitary adj. 独自的，单独的；独处的，独居的
+solitary machine 单独的机器
+likewise 同样地
+preserve v.保护，维护
+preserve peace 维护和平
+
+
 
 
 【句子】
@@ -340,6 +369,9 @@ Leading retailers rely on Redis Enterprise to build complex real-time inventory 
 inventory searches, ensures high availability, and handles updates from globally distributed retail channels without
 compromising latency or availability
 领先的零售商依赖Redis Enterprise来构建复杂的实时库存系统，因为它支持即时库存搜索，确保高可用性，并处理来自全球分布式零售渠道的更新，而不会影响延迟或可用性。
+
+He discard all thought of promotion.
+他打消了晋升的想法了。
 
 【skill】
 
