@@ -215,7 +215,7 @@ digest 理解，领悟；消化
 dispense with 摒弃，免去，无需
 shrink 缩小，减少；退缩
 deficiency 缺乏，缺点，不足
-complicated 复杂的
+complicated 复杂的 = complex
 essential 非常重要的，必不可少的 = crucial 
 productivity 生产力，生产率
 concise 简明的，简洁的
@@ -247,6 +247,7 @@ pitfall 陷阱
 Real-Time/realtime 实时的
 inventory 库存，清单
 accurate 精确的，准确的
+accuracy 准确性
 peak n. 巅峰，顶点；山顶；adj. 巅峰状态的，最高的；
 Real-Time inventory 实时库存
 accurate inventory 准确的库存
@@ -274,7 +275,7 @@ arithmetic operators 算术运算符
 consecutive 连续不断的，不间断的
 double quotes 双引号
 single quotes 单引号
-archive v.把……归档，存档 n.档案，档案室
+archive /ˈɑːkaɪv/ v.把……归档，存档 n.档案，档案室
 recursive 递归的，循环的
 recursively 递归地
 architecture 架构；建筑设计，建筑风格；
@@ -297,7 +298,26 @@ likewise 同样地
 preserve v.保护，维护
 preserve peace 维护和平
 
-
+enterprise 企业;公司;企业单位;事业单位;事业心
+enterprise management 企业管理
+competitive advantage 竞争优势 
+warehouse 仓库
+challenge n.挑战，难题 v.挑战，向……下战书
+involve v.涉及，牵涉
+involved adj.涉及的，有关的。
+impact n/v 冲击，撞击，影响
+compromise n/v 妥协，折中
+e-commerce platforms 电子商务平台
+architect 建筑师，架构师，设计师
+software architect 软件架构师
+infrastructure 基础设施
+vendors 供应商
+loyal customer 忠实的顾客
+capability 能力
+rapid 快速的
+deletion 删除
+inherit 继承
+massive 大量的，巨大的，大规模的
 
 
 【句子】
@@ -369,6 +389,14 @@ Leading retailers rely on Redis Enterprise to build complex real-time inventory 
 inventory searches, ensures high availability, and handles updates from globally distributed retail channels without
 compromising latency or availability
 领先的零售商依赖Redis Enterprise来构建复杂的实时库存系统，因为它支持即时库存搜索，确保高可用性，并处理来自全球分布式零售渠道的更新，而不会影响延迟或可用性。
+understand the challenge involved in implementing real-time inventory systems 
+理解实现实时库存系统所涉及的挑战
+The impact of performance problems and inaccurate inventory
+性能问题和库存不准确的影响
+How can we maintain consistency between stores and the enterprise if one side becomes unavailable? What happens when it recovers?
+如果其中一方无法使用，我们如何保持商店和企业之间的一致性?当它恢复的时候会发生什么?
+
+
 
 He discard all thought of promotion.
 他打消了晋升的想法了。
