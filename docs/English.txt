@@ -269,6 +269,7 @@ consistency 一致性
 Omnichannel 全渠道
 retailer 零售商
 out-of-date 过时的，老旧的
+up-to-date 最新的，现代的
 revenue 收入
 
 arithmetic operators 算术运算符
@@ -318,6 +319,14 @@ rapid 快速的
 deletion 删除
 inherit 继承
 massive 大量的，巨大的，大规模的
+
+owing to 由于，因为
+complexity 复杂性，复杂度
+The rule of thumb 经验法则
+expensive 昂贵的
+full-stack web developer 全栈web开发工程师
+explain v.解释，说明 = interpret
+explanation n. 解释，说明
 
 
 【句子】
@@ -397,9 +406,13 @@ How can we maintain consistency between stores and the enterprise if one side be
 如果其中一方无法使用，我们如何保持商店和企业之间的一致性?当它恢复的时候会发生什么?
 
 
-
 He discard all thought of promotion.
 他打消了晋升的想法了。
+
+
+Owing to our efforts, the task was finished ahead of time. 
+由于我们的努力,任务提前完成了。
+
 
 【skill】
 
