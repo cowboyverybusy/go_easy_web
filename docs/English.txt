@@ -87,6 +87,7 @@ placeholder parameters 占位符参数
 official documentation 官方文档
 comprehensive evaluation 综合评估，全面的评估
 unique identifier 唯一标识符
+prompt v.提示；促使 n.提示 adj.迅速的
 command prompt 命令提示符
 prompt action 立即行动
 irrespective of version number 不考虑版本号
@@ -204,7 +205,7 @@ subsequent handlers 后续的处理程序
 hint 暗示，提示
 assert 断言，维护，宣称，声称
 indicate v.表明，显示
-assist 帮助，协助
+assist v.帮助，协助 n.助攻
 parallel 平行的，并行的，同时发生的
 Parallel Testing 并行测试
 upside 优点，优势 downside 缺点，不利的方面
@@ -328,6 +329,31 @@ full-stack web developer 全栈web开发工程师
 explain v.解释，说明 = interpret
 explanation n. 解释，说明
 
+expire /ɪkˈspaɪə(r)/ v.到期，失效；死亡；
+variable [ˈveəriəbl] n.变量 adj. 可变的;多变的;
+available [əˈveɪləbl] adj.可用的，可获得的；有空的
+toggle v.切换
+swap v/n 交换，交易
+turn off 关闭
+turn off the computer 关闭电脑
+full-screen mode 全屏模式
+elementary 初级的;基本的;基础的
+elementary school 小学
+emphasize v.强调;重视;使突出
+metrics 指标
+abundance 大量，丰富
+an abundance of 大量的，
+replicate v.复制，重复
+aid n/v. 帮助，援助
+right bracket 右括号
+kernel space 内核空间
+dedicate v.致力于，奉献，献身于
+dedicated adj.献身的;专用的;专心致志的;一心一意的
+dedicated line 专线
+slight problem 小问题
+capital letter 大写字母
+in pairs 成对的
+a pair of shoes 一双鞋
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -405,18 +431,17 @@ The impact of performance problems and inaccurate inventory
 How can we maintain consistency between stores and the enterprise if one side becomes unavailable? What happens when it recovers?
 如果其中一方无法使用，我们如何保持商店和企业之间的一致性?当它恢复的时候会发生什么?
 
-
-He discard all thought of promotion.
-他打消了晋升的想法了。
-
-
-Owing to our efforts, the task was finished ahead of time. 
-由于我们的努力,任务提前完成了。
-
-
-【skill】
-
 in 5 minutes 在5分钟之内，在5分钟之后（这两个意思完全不同）
 in 5 minutes 更多表示5分钟之后
 whthin 5 minutes 在5分钟之内（表达5分钟之内使用whthin就没有歧义了）
 in a minute 马上，立刻
+
+He discard all thought of promotion.
+他打消了晋升的想法了。
+Owing to our efforts, the task was finished ahead of time. 
+由于我们的努力,任务提前完成了。
+If the character data completely fills the available column, this command toggle may impact the column header only.
+如果字符数据完全填充了可用列，则此命令切换可能仅影响列标题。
+
+She dedicates herself to her work
+她献身于自己的工作。
