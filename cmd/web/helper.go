@@ -15,9 +15,12 @@ func (app *application) serverError(w http.ResponseWriter, err error) {
 	http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
 }
 
-func (app *application) writeJSON(w http.ResponseWriter, status int, data interface{}, headers http.Header) error {
-	//MarshalIndent 能格式化展示json
+type envelope map[string]interface{}
+
+func (app *application) writeJSON(w http.ResponseWriter, status int, data envelope, headers http.Header) error {
+	//MarshalIndent 能格式化展示json。但是这个开销更大，正式环境推荐直接使用json.Marshal()
 	js, err := json.MarshalIndent(data, "", "\t")
+	// js, err := json.Marshal(data)
 	if err != nil {
 		return err
 	}

@@ -84,16 +84,19 @@ func (app *application) showMovie(w http.ResponseWriter, r *http.Request) {
 	id := r.FormValue("id")
 	mid, _ := strconv.Atoi(id)
 	movie := &data.Movie{
-		ID:          mid,
+		ID:          mid, //如果没有传递参数，则这里为0（空值），不展示这个字段
 		Title:       "独行月球",
 		CreateAt:    time.Now(),
 		Version:     1,
 		TicketPrice: 43.5,
+		Runtime:     20,
 	}
-	err := app.writeJSON(w, http.StatusOK, movie, nil)
+	data := envelope{"movie": movie}
+	err := app.writeJSON(w, http.StatusOK, data, nil)
 	if err != nil {
-		app.errorLog.Println("showMovie err:", err.Error())
-		http.Error(w, "The server encountered a problem and could not process your request", http.StatusInternalServerError)
+		// app.errorLog.Println("showMovie err:", err.Error())
+		// http.Error(w, "The server encountered a problem and could not process your request", http.StatusInternalServerError)
+		app.serverErrorResponse(w, r, err)
 	}
 
 }

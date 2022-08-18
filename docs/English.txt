@@ -364,6 +364,12 @@ open source communities 开源社区
 overhead n.开销
 worldwide adj.世界范围的，全世界的 adv.在全世界，在世界各地
 worldwide attention 全球关注
+envelop v.封装;包住;裹住;盖住 = wrap
+whitespace 空格
+illustrate /ˈɪləstreɪt/ 说明，阐述；证明
+a couple of 两个，几个
+identical adj.完全相同的；同一的
+middleware 中间件
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
