@@ -54,3 +54,12 @@ go test ./...
 在测试方法中加入t.Parallel()
 同时运行的最大测试数是GOMAXPROCS的当前值。您可以通过-parallel标志设置一个特定的值来重写它。如下：
 go test -parallel 4 ./...
+
+
+【⭐go：json对象中隐藏结构体字段】
+如果返回json数据的时候不想展示结构体某个字段有两种办法：
+1、字段首字母设置为小写
+2、可以使用-(连字符)指令
+CreatedAt time.Time `json:"-"` 
+3、omitempty指令在JSON输出中隐藏一个字段，当且仅当该struct字段的值为空时
+Year int32 `json:"year,omitempty"` // Add the omitempty directive

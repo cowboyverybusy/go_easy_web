@@ -332,7 +332,8 @@ explanation n. 解释，说明
 expire /ɪkˈspaɪə(r)/ v.到期，失效；死亡；
 variable [ˈveəriəbl] n.变量 adj. 可变的;多变的;
 available [əˈveɪləbl] adj.可用的，可获得的；有空的
-toggle v.切换
+toggle v.切换 
+switch v.切换，打开，转变 n.开关，切换
 swap v/n 交换，交易
 turn off 关闭
 turn off the computer 关闭电脑
@@ -354,6 +355,15 @@ slight problem 小问题
 capital letter 大写字母
 in pairs 成对的
 a pair of shoes 一双鞋
+
+track v.跟踪，追踪 n.小道，踪迹；（铁路的）轨道
+personal preference 个人偏好
+distro 发行版
+community 社区，社会
+open source communities 开源社区
+overhead n.开销
+worldwide adj.世界范围的，全世界的 adv.在全世界，在世界各地
+worldwide attention 全球关注
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime

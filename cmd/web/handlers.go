@@ -3,9 +3,12 @@ package main
 import (
 	"bytes"
 	"fmt"
+	"go_easy_web/internal/data"
 	"html/template"
 	"log"
 	"net/http"
+	"strconv"
+	"time"
 )
 
 func (app *application) Hello(w http.ResponseWriter, r *http.Request) {
@@ -75,4 +78,22 @@ func (app *application) ShowHome(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	buf.WriteTo(w)
+}
+
+func (app *application) showMovie(w http.ResponseWriter, r *http.Request) {
+	id := r.FormValue("id")
+	mid, _ := strconv.Atoi(id)
+	movie := &data.Movie{
+		ID:          mid,
+		Title:       "独行月球",
+		CreateAt:    time.Now(),
+		Version:     1,
+		TicketPrice: 43.5,
+	}
+	err := app.writeJSON(w, http.StatusOK, movie, nil)
+	if err != nil {
+		app.errorLog.Println("showMovie err:", err.Error())
+		http.Error(w, "The server encountered a problem and could not process your request", http.StatusInternalServerError)
+	}
+
 }
