@@ -370,6 +370,12 @@ illustrate /ˈɪləstreɪt/ 说明，阐述；证明
 a couple of 两个，几个
 identical adj.完全相同的；同一的
 middleware 中间件
+overview 概述，综述
+
+thrift /θrɪft/ n.节约，节俭
+
+
+
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
