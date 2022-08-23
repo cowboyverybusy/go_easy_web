@@ -33,7 +33,8 @@ User Manual 用户手册、说明书
 manual labour 手工劳动，体力劳动
 orphan process 孤儿进程
 Business License 营业执照、营业许可证
-convert 转变、转换
+convert v.转变、转换
+conversion n.转变、转换
 retrieve 检索、找回
 invalid value 无效的值
 build and deploy application 构建和部署应用程序
@@ -147,6 +148,7 @@ A brief overview 简短的概述（纲要）
 standard pattern 标准模式
 succinct 简洁的，言简意赅的
 anonymous function 匿名函数
+anonymous user 匿名用户
 Alternatively 或者
 implement 实现，实施，执行
 straight away 马上，立刻 = in a minute
@@ -287,7 +289,8 @@ forgery n.伪造；伪造品，赝品
 electronic waste 电子垃圾
 discard v.扔掉，丢弃，抛弃
 promotion n. 提拔，晋升；促销，推销； 促进
-bonus 奖金，额外的好处
+bonus 奖金，额外的好处 
+reward n/v 奖励，回报
 reverse-proxy 反向代理
 tricky 棘手的，难对付的
 simulate v.模拟，模仿；假装，冒充
@@ -373,9 +376,40 @@ middleware 中间件
 overview 概述，综述
 
 thrift /θrɪft/ n.节约，节俭
-
-
-
+activation n.激活;活跃度;激活码;
+activate v.激活
+without a hitch 顺利地
+consent n.同意;准许;正式批准文件 vi.同意;准许;允许
+overlook v.忽略,忽视 = omit
+decimal [ˈdesɪml] adj.小数的，十进制的 n.小数
+optimization n.优化
+optimize v.优化
+optimize performance 优化性能
+secondary 次要的，辅助的；中等教育的
+secondary school 中学
+secondary index 二级索引，辅助索引
+cluster 聚集
+clustered index 聚集索引
+concurrent transactions 并发事务
+approximate 近似的，大约的
+approximate-value 近似值
+embrace v.拥抱，接受，采纳
+numeric argument 数值参数
+aggregate adj.总数的;总计的 n.合计;总数; vt.合计;总计
+aggregated column 聚合列
+ascend v.上升，升高，登高
+descend v.下降，下来
+ascending adj.上升的
+ascending order 升序
+explicit 明确的，清楚的
+maximum value 最大的值
+accidently 偶然，意外地
+accident 事故，意外遭遇，意外
+eliminate v.排除，清除；淘汰；消灭
+notation 符号
+recover v.恢复;康复;复原;痊愈
+recovery n.恢复;康复;痊愈;复苏
+highest precedence 最高的优先级
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -467,3 +501,6 @@ If the character data completely fills the available column, this command toggle
 
 She dedicates herself to her work
 她献身于自己的工作。
+
+Consistent conversion results across platforms, which eliminates, for example, Unix versus Windows conversion differences.
+跨平台的一致转换结果，消除了例如Unix与Windows转换的差异。
