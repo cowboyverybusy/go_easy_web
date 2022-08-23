@@ -100,3 +100,24 @@ func (app *application) showMovie(w http.ResponseWriter, r *http.Request) {
 	}
 
 }
+
+//测试助手函数background能否捕获恐慌，已经执行goroutine
+func (app *application) outputWord(w http.ResponseWriter, r *http.Request) {
+	//⭐后台执行的协程出现恐慌的时候会导致整个程序终止，所以我们需要捕获恐慌，并自动恢复。
+	// go func() {
+	// 	defer func() {
+	// 		if err := recover(); err != nil {
+	// 			app.errorLog.Println(err)
+	// 		}
+	// 	}()
+	// 	fmt.Println("hello world")
+	// 	panic("it is panic!")
+	// }()
+
+	app.background(func() {
+		// panic("it is panic!")
+		fmt.Println("hello world")
+	})
+	time.Sleep(2 * time.Second)
+	fmt.Println("结束")
+}

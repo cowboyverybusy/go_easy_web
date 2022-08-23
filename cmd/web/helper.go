@@ -33,3 +33,19 @@ func (app *application) writeJSON(w http.ResponseWriter, status int, data envelo
 	w.Write(js)
 	return nil
 }
+
+// The background() helper accepts an arbitrary function as a parameter.
+// ⭐后台执行的协程出现恐慌的时候会导致整个程序终止，所以我们需要捕获恐慌，并自动恢复。
+// 可能有多个地方用到后台协程，所以封装成助手函数
+func (app *application) background(fn func()) {
+	go func() {
+		defer func() {
+			if err := recover(); err != nil {
+				app.errorLog.Println(err)
+			}
+		}()
+		fn()
+	}()
+}
+
+//
