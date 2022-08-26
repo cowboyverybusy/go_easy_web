@@ -11,10 +11,11 @@ additional information 额外信息
 an external third-party server 一个外部的第三方服务
 third-party packages 第三方包
 please visit the following links 请访问以下链接
-In contrast 与此相反
+In contrast 与此相反 = conversely
 side effect 副作用
 repeated slashes 重复的斜杠（斜线）
 trailing slash 末尾的斜杠
+backslash [ˈbækslæʃ]反斜线
 pretty lightweight helper function 非常轻量的助手函数
 a bit restrictive 有点限制
 idempotent action 幂等的行为
@@ -77,6 +78,7 @@ empty recycle bin 清空回收站(垃圾桶)
 rubbish bin 垃圾桶
 measuring accuracy 测量精度
 agile development 敏捷开发
+terminal [ˈtɜːmɪnl] n.终端；终点站；adj.晚期的，不治的
 open your terminal 打开你的终端
 internal server error 内部服务器错误
 external pressure 外部压力
@@ -204,7 +206,7 @@ intercept 拦截，阻拦
 subsequent 随后的，后来的，后面的
 subsequent report 后续的报道
 subsequent handlers 后续的处理程序
-hint 暗示，提示
+hint v/n 暗示，提示
 assert 断言，维护，宣称，声称
 indicate v.表明，显示
 assist v.帮助，协助 n.助攻
@@ -233,12 +235,14 @@ elide 省略
 auto indent 自动缩进
 text-indent 文本缩进段落缩进
 imply 意味着，暗示
+elaborate 详细的，精心制作的
 elaborate plan 精心设计的计划
 
 extremely handy 极其方便的
 calculate and manipulate data 计算和操作数据
 quotes 引号，引用
 introductory course 基础入门课程
+throughput 吞吐量
 high-throughput 高吞吐
 low-latency 低延迟
 knowledge forum 知识论坛
@@ -268,6 +272,7 @@ brand loyalty 品牌忠诚度
 purchase 购买
 instant failure detection 及时故障检测
 detect v.发现，察觉；检测
+detective 侦探
 consistency 一致性
 Omnichannel 全渠道
 retailer 零售商
@@ -385,6 +390,7 @@ decimal [ˈdesɪml] adj.小数的，十进制的 n.小数
 optimization n.优化
 optimize v.优化
 optimize performance 优化性能
+optimizer 优化器
 secondary 次要的，辅助的；中等教育的
 secondary school 中学
 secondary index 二级索引，辅助索引
@@ -410,6 +416,34 @@ notation 符号
 recover v.恢复;康复;复原;痊愈
 recovery n.恢复;康复;痊愈;复苏
 highest precedence 最高的优先级
+
+execution time 执行时间
+execution plan 执行时间
+in terms of 在……方面，从……角度看
+background service 后台服务
+reboot 重启，重新启动
+extract v/n 摘录;提取;提炼;
+fractional part 小数部分
+two-digit 两位数
+block v.阻塞，阻碍；堵住，挡住，拦截 n.块，街区
+access v.访问，存取；到达，进入 n.通道
+plugin 插件
+prohibit v.禁止，阻止
+workaround 解决方法
+privilege  [ˈprɪvəlɪdʒ] 特权，特殊待遇
+subquery 子查询
+subset 子集
+guideline 指南，指导方针；准则
+expert n.专家;行家;能手 adj.熟练的;内行的;专家的
+expertise n.专业知识;专长;专门技能
+bottleneck 瓶颈
+portable 便携式的;手提的;轻便的；可移值的
+tune  [tuːn] v.调整；(为乐器)调音，校音
+investigate 调查，研究
+suppose v.假设，认为
+intensive 密集的
+
+
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -504,3 +538,26 @@ She dedicates herself to her work
 
 Consistent conversion results across platforms, which eliminates, for example, Unix versus Windows conversion differences.
 跨平台的一致转换结果，消除了例如Unix与Windows转换的差异。
+
+How can I measure the execution time of a terminal process
+如何测量终端进程的执行时间。
+
+[alter table]
+An ALTER DATABASE statement blocks until all concurrent transactions that have already accessed an object in the database being altered have committed。
+Conversely, a write transaction accessing an object in a database being altered in a concurrent ALTER DATABASE blocks until the ALTER DATABASE has committed.
+ALTER DATABASE语句会阻塞，直到所有已访问正在被更改的数据库中的对象的并发事务都已提交。
+相反，访问一个正在并发执行ALTER操作的数据库对象的写事务会阻塞，直到ALTER DATABASE语句提交为止。
+
+⭐注意：being+动词过去式一般用在过去进行时的被动语态、现在进行时的被动语态。即过去或现在正在发生的动作。
+如：The desks are being moved.这些书桌正在被搬动
+
+If a performance issue is not easily solved by one of the basic guidelines, investigate the internal details of the specific query by reading the EXPLAIN plan 
+and adjusting your indexes, WHERE clauses, join clauses, and so on. (When you reach a certain level of expertise, reading the EXPLAIN plan might be your first step for every query.)
+如果性能问题不容易通过基本准则之一解决，请通过阅读解释计划并调整索引、WHERE子句、join子句等来调查特定查询的内部细节。（当您达到一定的专业水平时，阅读解释计划可能是每一个查询的第一步。）
+
+HAVING is merged with WHERE if you do not use GROUP BY or aggregate functions (COUNT(), MIN(), and so on).
+如果您不使用 GROUP BY 或聚合函数（COUNT()、MIN() 等），HAVING 将与 WHERE 合并。
+
+The range condition extraction algorithm can handle nested AND/OR constructs of arbitrary depth,
+ and its output does not depend on the order in which conditions appear in WHERE clause.
+ 范围条件提取算法可以处理任意深度的嵌套 AND/OR 构造，并且其输出不依赖于条件在 WHERE 子句中出现的顺序。
