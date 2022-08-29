@@ -323,7 +323,7 @@ software architect 软件架构师
 infrastructure 基础设施
 vendors 供应商
 loyal customer 忠实的顾客
-capability 能力
+capability [ˌkeɪpəˈbɪləti] 能力，才能
 rapid 快速的
 deletion 删除
 inherit 继承
@@ -408,6 +408,7 @@ descend v.下降，下来
 ascending adj.上升的
 ascending order 升序
 explicit 明确的，清楚的
+maximum [ˈmæksɪməm] 最大的，最多的
 maximum value 最大的值
 accidently 偶然，意外地
 accident 事故，意外遭遇，意外
@@ -436,13 +437,44 @@ subset 子集
 guideline 指南，指导方针；准则
 expert n.专家;行家;能手 adj.熟练的;内行的;专家的
 expertise n.专业知识;专长;专门技能
+bottle 瓶子，一瓶
 bottleneck 瓶颈
 portable 便携式的;手提的;轻便的；可移值的
 tune  [tuːn] v.调整；(为乐器)调音，校音
 investigate 调查，研究
 suppose v.假设，认为
 intensive 密集的
+resource-intensive application 资源密集型应用
 
+at any time 随时的
+subscribe  [səbˈskraɪb] v.（定期）订阅、订购
+unsubscribe 取消订阅、订购
+take over 接管，接手；取代
+electronic devices 电子设备
+graphics [ˈɡræfɪks] 图形，图案
+graphics card 显卡
+artificial [ˌɑːrtɪˈfɪʃl] 人造的，人工的，人为的
+artificial intelligence 人工智能/AI
+subtle [ˈsʌtl] 不明显的，不易察觉的；细微的
+subtle distinction 细微差别
+integrated 集成的，综合的 
+integrated graphics technology 集成图形技术
+extensive 广泛的，广阔的；大量的
+extensively 广泛地
+widespread 广泛的，普遍的
+consumption 消耗
+discrete 离散的；分散的
+era 时代，年代
+century 世纪
+21st century 二十一世纪
+scientist 科学家
+laptop [ˈlæptɑːp] 笔记本电脑
+density  [ˈdensəti] 密度；浓度；密集
+population density 人口密度
+algorithm [ˈælɡərɪðəm] 算法
+digital  [ˈdɪdʒɪtl] 数字的
+optimal 最佳的，最优的
+optimal performance 最佳性能
 
 
 【句子】
@@ -561,3 +593,13 @@ HAVING is merged with WHERE if you do not use GROUP BY or aggregate functions (C
 The range condition extraction algorithm can handle nested AND/OR constructs of arbitrary depth,
  and its output does not depend on the order in which conditions appear in WHERE clause.
  范围条件提取算法可以处理任意深度的嵌套 AND/OR 构造，并且其输出不依赖于条件在 WHERE 子句中出现的顺序。
+
+[GPU graphics processing unit]
+Are GPUs Really Taking Over CPUs?
+GPU真的会取代CPU吗？
+
+The graphics processing unit, or GPU, has become one of the most important types of computing technology, both for personal and business computing. 
+Designed for parallel processing, the GPU is used in a wide range of applications, including graphics and video rendering.
+ Although they’re best known for their capabilities in gaming, GPUs are becoming more popular for use in creative production and artificial intelligence (AI).
+ 图形处理单元（GPU）已成为个人和商业计算中最重要的计算技术之一。设计用于并行处理，
+ GPU用于广泛的应用，包括图形和视频渲染。尽管GPU以其在游戏中的能力而闻名，但在创意生产和人工智能（AI）中，GPU正变得越来越流行。
