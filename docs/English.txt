@@ -372,7 +372,7 @@ open source communities 开源社区
 overhead n.开销
 worldwide adj.世界范围的，全世界的 adv.在全世界，在世界各地
 worldwide attention 全球关注
-envelop v.封装;包住;裹住;盖住 = wrap
+envelop  [ɪnˈveləp] v.封装;包住;裹住;盖住 = wrap
 whitespace 空格
 illustrate /ˈɪləstreɪt/ 说明，阐述；证明
 a couple of 两个，几个
@@ -399,12 +399,12 @@ clustered index 聚集索引
 concurrent transactions 并发事务
 approximate 近似的，大约的
 approximate-value 近似值
-embrace v.拥抱，接受，采纳
+embrace [ɪmˈbreɪs] v.拥抱，接受，采纳
 numeric argument 数值参数
 aggregate adj.总数的;总计的 n.合计;总数; vt.合计;总计
 aggregated column 聚合列
-ascend v.上升，升高，登高
-descend v.下降，下来
+ascend [əˈsend] v.上升，升高，登高
+descend [dɪˈsend] v.下降，下来
 ascending adj.上升的
 ascending order 升序
 explicit 明确的，清楚的
@@ -429,7 +429,7 @@ two-digit 两位数
 block v.阻塞，阻碍；堵住，挡住，拦截 n.块，街区
 access v.访问，存取；到达，进入 n.通道
 plugin 插件
-prohibit v.禁止，阻止
+prohibit [prəˈhɪbɪt] v.禁止，阻止
 workaround 解决方法
 privilege  [ˈprɪvəlɪdʒ] 特权，特殊待遇
 subquery 子查询
@@ -459,12 +459,12 @@ subtle [ˈsʌtl] 不明显的，不易察觉的；细微的
 subtle distinction 细微差别
 integrated 集成的，综合的 
 integrated graphics technology 集成图形技术
-extensive 广泛的，广阔的；大量的
+extensive 广泛的，广阔的；大量的 （对比intensive 密集的）
 extensively 广泛地
 widespread 广泛的，普遍的
 consumption 消耗
 discrete 离散的；分散的
-era 时代，年代
+era [ˈɪrə] 时代，年代
 century 世纪
 21st century 二十一世纪
 scientist 科学家
@@ -475,6 +475,14 @@ algorithm [ˈælɡərɪðəm] 算法
 digital  [ˈdɪdʒɪtl] 数字的
 optimal 最佳的，最优的
 optimal performance 最佳性能
+
+fabulous  [ˈfæbjələs] 极好的，绝妙的，巨大的
+hit rate 命中率
+analyze [ˈænəlaɪz] 分析
+dog [bɑːɡ] 沼泽(地区);厕所;浴室 v.（使）陷于泥沼;（使）卡住，停滞不前（bog down）
+come down to  归威威
+controversy [ˈkɑːntrəvɜːrsi] n.争论，争议
+controvert v.反驳;争论
 
 
 【句子】
@@ -603,3 +611,8 @@ Designed for parallel processing, the GPU is used in a wide range of application
  Although they’re best known for their capabilities in gaming, GPUs are becoming more popular for use in creative production and artificial intelligence (AI).
  图形处理单元（GPU）已成为个人和商业计算中最重要的计算技术之一。设计用于并行处理，
  GPU用于广泛的应用，包括图形和视频渲染。尽管GPU以其在游戏中的能力而闻名，但在创意生产和人工智能（AI）中，GPU正变得越来越流行。
+
+
+ Windows 10 collects data about the way you use it in the background. It's been the topic of controversy for privacy reasons,
+and it's a common cause of high disk usage. Disabling the service responsible can help give the hard drive a rest.
+Windows 10 收集有关您在后台使用它的方式的数据。出于隐私原因，它一直是争议的话题，也是磁盘使用率高的常见原因。禁用负责的服务可以帮助硬盘驱动器休息。
