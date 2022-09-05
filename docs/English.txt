@@ -202,8 +202,9 @@ immediately 立即，马上
 malicious attack 恶意的攻击
 malicious website 恶意网站
 mitigate 减轻，缓和
-intercept 拦截，阻拦
-subsequent 随后的，后来的，后面的
+intercept [ˌɪntərˈsept] v/n 拦截，阻拦
+interrupt [ˌɪntəˈrʌpt] v.打断，打扰；中断
+subsequent [ˈsʌbsɪkwənt] 随后的，后来的，后面的
 subsequent report 后续的报道
 subsequent handlers 后续的处理程序
 hint v/n 暗示，提示
@@ -214,8 +215,9 @@ parallel 平行的，并行的，同时发生的
 Parallel Testing 并行测试
 upside 优点，优势 downside 缺点，不利的方面
 emulate 模仿，效仿
+dummy [ˈdʌmi] adj.假的 
 dummy data 虚拟数据
-digest 理解，领悟；消化
+digest [ˈdaɪdʒest] v.理解，领悟；消化 n.摘要，概要
 
 dispense with 摒弃，免去，无需
 shrink 缩小，减少；退缩
@@ -480,9 +482,23 @@ fabulous  [ˈfæbjələs] 极好的，绝妙的，巨大的
 hit rate 命中率
 analyze [ˈænəlaɪz] 分析
 dog [bɑːɡ] 沼泽(地区);厕所;浴室 v.（使）陷于泥沼;（使）卡住，停滞不前（bog down）
-come down to  归威威
+come down to  归结为
 controversy [ˈkɑːntrəvɜːrsi] n.争论，争议
 controvert v.反驳;争论
+bounds [baʊndz] 范围，极限
+exceed [ɪkˈsiːd]  v.超过，超出，超越
+feature [ˈfiːtʃər] 特色;特征;特点
+exceed bounds 超过范围，超越极限
+demand is exceeding supply 供不应求
+fully-featured 功能齐全的，功能完善的
+elevate [ˈelɪveɪt] v.提升;提高;抬起;提拔
+intern 实习生
+undergrad 本科生
+artwork 艺术品
+slave [sleɪv] 奴隶
+nested-loop 嵌套循环
+
+
 
 
 【句子】
