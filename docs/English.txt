@@ -183,7 +183,7 @@ defence mechanism 防御机制
 feedback mechanism 反馈机制
 meet 满足，遇见
 take a moment to do sth 花点时间做某事
-revoke 撤销，撤回
+revoke [rɪˈvoʊk] 撤销，撤回；取消；废除
 yield  v.产生，屈服 n.产量，利润，收益
 interpret 解释，说明
 anticipate 预期，预料
@@ -231,6 +231,7 @@ abbreviation n.缩写,缩略词
 declaration 声明
 redundant 多余的，冗余的
 redundant information 冗余信息
+redundancy n.冗余;多余;裁员
 similar advice 类似的建议
 convention  n.惯例，习俗
 elide 省略
@@ -242,6 +243,7 @@ elaborate plan 精心设计的计划
 
 extremely handy 极其方便的
 calculate and manipulate data 计算和操作数据
+quick manipulation 快速操作
 quotes 引号，引用
 introductory course 基础入门课程
 throughput 吞吐量
@@ -283,7 +285,7 @@ up-to-date 最新的，现代的
 revenue 收入
 
 arithmetic operators 算术运算符
-consecutive 连续不断的，不间断的
+consecutive  [kənˈsekjətɪv] 连续不断的，不间断的
 double quotes 双引号
 single quotes 单引号
 archive /ˈɑːkaɪv/ v.把……归档，存档 n.档案，档案室
@@ -335,6 +337,7 @@ owing to 由于，因为
 complexity 复杂性，复杂度
 The rule of thumb 经验法则
 expensive 昂贵的
+inexpensive 便宜的，廉价的
 full-stack web developer 全栈web开发工程师
 explain v.解释，说明 = interpret
 explanation n. 解释，说明
@@ -498,8 +501,16 @@ artwork 艺术品
 slave [sleɪv] 奴隶
 nested-loop 嵌套循环
 
-
-
+futile [ˈfjuːtl] adj.徒然的;徒劳的;无效的
+straight [streɪt] 直的
+independent 独立的，自主的
+hence 因此
+career growth 职业发展
+beyond the scope of 超过范围
+transparent [trænsˈpærənt] 透明的;清澈的;易察觉的，明显的
+abstraction [æbˈstrækʃn] 抽象
+layer [ler] 层
+abstraction layer 抽象层
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
