@@ -107,7 +107,7 @@ input 输入
 
 comma 逗号
 incorrect request 错误请求
-tutorial 教程、学习指南
+tutorial [tuːˈtɔːriəl] 教程、学习指南
 glamorous 迷人的、富有魅力的
 all sorts of 各种各样的，各种类型的
 component 组件
@@ -511,6 +511,12 @@ transparent [trænsˈpærənt] 透明的;清澈的;易察觉的，明显的
 abstraction [æbˈstrækʃn] 抽象
 layer [ler] 层
 abstraction layer 抽象层
+exclusive [ɪkˈskluːsɪv] 独家的，独有的，专有的
+exclusive lock 排他锁，独占锁
+gap [ɡæp] n.缺口;差距;间隙;间隔;
+span n.跨度;范围 vt.跨越;横跨;持续(过去式：spanned)
+front-end developer tool 前端开发工具
+
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
