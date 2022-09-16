@@ -520,6 +520,8 @@ front-end developer tool 前端开发工具
 Pros and Cons of Using DHCP 使用DHCP的优缺点(利弊)
 outline v/n 概述;略述
 excerpt [ˈeksɜːrpt] n.节选;摘录;(音乐、电影的)片段
+coherence 连贯性，一致性
+coherent  [kəʊˈhɪərənt]  连贯的;合乎逻辑的;有条理的; 
 cache coherence 缓存一致性
 barrier [ˈbæriər] 障碍;屏障;阻力;关卡
 language barrier 语言障碍
@@ -529,7 +531,9 @@ spinlock 自旋锁
 volatile [ˈvɑːlətl] adj.不稳定的;易变的;易失的
 out-of-order 无序的，乱序的
 harmony [ˈhɑːrməni] 和谐，融洽
+in harmony 和谐地，融洽地
 estimate [ˈestɪmeɪt] v.估计;估算;估价n.估价;(对数量、成本等的)估计
+
 
 
 
