@@ -301,7 +301,8 @@ promotion n. 提拔，晋升；促销，推销； 促进
 bonus 奖金，额外的好处 
 reward n/v 奖励，回报
 reverse-proxy 反向代理
-tricky 棘手的，难对付的
+tricky [ˈtrɪki] 棘手的，难对付的
+trickier 更棘手的
 simulate v.模拟，模仿；假装，冒充
 clipboard 剪贴板
 classic tool  经典的工具
@@ -534,8 +535,16 @@ harmony [ˈhɑːrməni] 和谐，融洽
 in harmony 和谐地，融洽地
 estimate [ˈestɪmeɪt] v.估计;估算;估价n.估价;(对数量、成本等的)估计
 
-
-
+peer [pɪr] n.同龄人;同辈;身份(或地位)相同的人; v.仔细看;端详
+preference  [ˈprefrəns] n.偏爱;爱好;喜爱
+authoritative adj.权威的;权威性的
+neglect [nɪˈɡlekt] v.疏于照顾;忽略;忽视
+dig [dɪɡ] v.挖掘;掘(地);凿(洞)
+finite [ˈfaɪnaɪt] adj.有限的;有限制的;限定的 n.有限(性)
+infinite adj.极大的;无法衡量的;无限的; n.无限的事物
+infinity n 无穷，无穷远
+intentional 有意的，故意的
+profile [ˈproʊfaɪl] n.轮廓;简介;概述
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -668,3 +677,6 @@ Designed for parallel processing, the GPU is used in a wide range of application
  Windows 10 collects data about the way you use it in the background. It's been the topic of controversy for privacy reasons,
 and it's a common cause of high disk usage. Disabling the service responsible can help give the hard drive a rest.
 Windows 10 收集有关您在后台使用它的方式的数据。出于隐私原因，它一直是争议的话题，也是磁盘使用率高的常见原因。禁用负责的服务可以帮助硬盘驱动器休息。
+
+The world's resources are finite
+世界的资源是有限的。
