@@ -154,7 +154,7 @@ anonymous user 匿名用户
 Alternatively 或者
 implement 实现，实施，执行
 straight away 马上，立刻 = in a minute
-terminate 终止，结束
+terminate [ˈtɜːrmɪneɪt] 终止，结束
 sophisticated 复杂的，见多识广的
 
 hang in there 坚持住
@@ -545,6 +545,19 @@ infinite adj.极大的;无法衡量的;无限的; n.无限的事物
 infinity n 无穷，无穷远
 intentional 有意的，故意的
 profile [ˈproʊfaɪl] n.轮廓;简介;概述
+
+top think tank 顶尖的智囊团、顶尖专家小组
+monotonous  [məˈnɑːtənəs] 单调的，乏味的
+monotonous work 单调乏味的工作
+interim [ˈɪntərɪm] 临时的；过渡的；暂时的
+interim phase 过渡阶段
+occupation 工作;职业;占领
+labor costs 劳动成本
+detain [dɪˈteɪn] 扣留;拘留;扣押;耽搁
+brainless [ˈbreɪnləs] adj. 脑残的,愚蠢的
+cast away 丢弃，抛弃
+terminal [ˈtɜːrmɪnl] adj.晚期的;不治的;致命的 n航空站;终端;终点站
+
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
