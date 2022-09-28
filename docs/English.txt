@@ -449,7 +449,7 @@ portable 便携式的;手提的;轻便的；可移值的
 tune  [tuːn] v.调整；(为乐器)调音，校音
 investigate 调查，研究
 suppose v.假设，认为
-intensive 密集的
+intensive 密集的，密集型的
 resource-intensive application 资源密集型应用
 
 at any time 随时的
@@ -558,6 +558,19 @@ brainless [ˈbreɪnləs] adj. 脑残的,愚蠢的
 cast away 丢弃，抛弃
 terminal [ˈtɜːrmɪnl] adj.晚期的;不治的;致命的 n航空站;终端;终点站
 
+amplitude [ˈæmplɪtuːd] 振幅
+age-old 古老的
+abbreviate vt.缩写；缩略
+tech giants 科技巨头
+allot [əˈlɑːt]  vt.分配，配给 = allocate 
+conservative 保守的;守旧的
+irony [ˈaɪrəni] n.讽刺
+budget  [ˈbʌdʒɪt] n.预算 adj.价格低廉的
+conclusion 总结,结论
+thorough adj.彻底的;完全的;全面的
+
+preview 预览，预演
+pretend  [prɪˈtend] v.假装;佯装
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -693,3 +706,10 @@ Windows 10 收集有关您在后台使用它的方式的数据。出于隐私原
 
 The world's resources are finite
 世界的资源是有限的。
+
+PHP gives many advanced features for making web pages dynamic and integrating some features you can not simply get using javascript, HTML, and CSS. 
+PHP 提供了许多高级功能来使网页动态化，并集成了一些使用 javascript、HTML 和 CSS 无法简单获得的功能。
+
+
+note: if you just want to learn how to increase the memory_limit, scroll to the end of this article. But I urge you to read everything as it might be useful.
+注意：如果您只是想了解如何增加 memory_limit，请滚动到本文末尾。但我敦促您阅读所有内容，因为它可能有用。
