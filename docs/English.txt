@@ -90,7 +90,7 @@ placeholder parameters 占位符参数
 official documentation 官方文档
 comprehensive evaluation 综合评估，全面的评估
 unique identifier 唯一标识符
-prompt v.提示；促使 n.提示 adj.迅速的
+prompt v.提示；促使 n.提示；提示符 adj.迅速的
 command prompt 命令提示符
 prompt action 立即行动
 irrespective of version number 不考虑版本号
@@ -111,7 +111,8 @@ tutorial [tuːˈtɔːriəl] 教程、学习指南
 glamorous 迷人的、富有魅力的
 all sorts of 各种各样的，各种类型的
 component 组件
-recursive 递归的
+recursive [rɪˈkɜːrsɪv] 递归的
+recursion 递归
 open-source 开源的
 bypass network restrictions 绕过网络限制
 software engineer 软件工程师
@@ -214,7 +215,7 @@ assist v.帮助，协助 n.助攻
 parallel 平行的，并行的，同时发生的
 Parallel Testing 并行测试
 upside 优点，优势 downside 缺点，不利的方面
-emulate 模仿，效仿
+emulate 模仿，效仿；仿真
 dummy [ˈdʌmi] adj.假的 
 dummy data 虚拟数据
 digest [ˈdaɪdʒest] v.理解，领悟；消化 n.摘要，概要
@@ -571,6 +572,27 @@ thorough adj.彻底的;完全的;全面的
 
 preview 预览，预演
 pretend  [prɪˈtend] v.假装;佯装
+wonky 不准的；不稳的;
+wonky climate report不准确的气候报告
+strong suit 强项;擅长
+absolutely 当然；绝对地；完全地
+what the problem-is问题在哪里
+compression 压缩
+efficiency [ɪˈfɪʃnsi] 效率;效能;功效;
+efficient adj.有效率的;效率高的;
+inefficient 效率低的
+garbage collection [ˈɡɑːrbɪdʒ kəˈlekʃn] 垃圾回收
+generic [dʒəˈnerɪk] adj.通用的;一般的;
+illusion [ɪˈluːʒn] n.幻觉;错觉;幻想
+interpreter 解释器
+iterate  [ˈɪtəreɪt] vt.迭代
+iterator 迭代器，迭代程序
+memory leaks 内存泄漏
+precedence 优先级
+robust  [roʊˈbʌst]  adj.强健的;强劲的;健壮的
+robustness 健壮性
+sketch 草图
+
 
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
@@ -713,3 +735,6 @@ PHP 提供了许多高级功能来使网页动态化，并集成了一些使用 
 
 note: if you just want to learn how to increase the memory_limit, scroll to the end of this article. But I urge you to read everything as it might be useful.
 注意：如果您只是想了解如何增加 memory_limit，请滚动到本文末尾。但我敦促您阅读所有内容，因为它可能有用。
+
+it is absolutely your strong suit
+这绝对是你的强项
