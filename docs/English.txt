@@ -62,7 +62,6 @@ two distinct types 两种不同的类型
 a couple of different ways 几种不同的方法
 decouple code 解耦代码
 server encounters an error 服务器遇到(偶遇)一个错误
-shortcut 捷径、快捷方法
 As a rule of thumb 根据经验
 concurrency-safe 并发安全
 Dependency Injection 依赖注入
@@ -594,6 +593,21 @@ robustness 健壮性
 sketch 草图
 
 
+heal v.治愈(病人);(使)康复，复原
+romance [ˈroʊmæns] n.浪漫;爱情;恋爱
+rebellious teenager 叛逆少年
+Instruction Set 指令集
+shortcut 捷径、快捷方法
+keyboard n.键盘；v.用键盘输入
+keyboard shortcut 快捷键
+simultaneously [ˌsaɪməlˈteɪniəsli] 同时
+inspect [ɪnˈspekt] v.检查
+traditional viewpoint 传统观点
+technical term 专业术语
+technical support 技术支持
+trivial [ˈtrɪviəl] 不重要的;琐碎的;
+
+
 【句子】
 As I said above, my general recommendation is to log your output to standard streams and redirect the output to a file at runtime
 如上所述，我的一般建议是将输出记录到标准流，并在运行时将输出重定向到文件
@@ -738,3 +752,7 @@ note: if you just want to learn how to increase the memory_limit, scroll to the 
 
 it is absolutely your strong suit
 这绝对是你的强项
+
+
+We offer free technical support.
+我们提供免费的技术支持
